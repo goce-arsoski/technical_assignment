@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"InventoryItemTest::testDefaultItemAgesCorrectly":0.001,"InventoryItemTest::testVintageWineIncreasesValue":0,"InventoryItemTest::testWorldCupTicketsIncreaseValue":0,"InventoryItemTest::testPerishableItemDegradesTwiceAsFast":0,"InventoryItemTest::testGoldBarDoesNotChange":0}}
